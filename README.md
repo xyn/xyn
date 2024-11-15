@@ -1,2 +1,1 @@
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/xyn/xyn/main/awesome_bg_0.png');]{x0000}$}
+Random stuff I do sometimes
